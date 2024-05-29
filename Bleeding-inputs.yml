@@ -1,0 +1,114 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/reopen-bleeding---primary.py
+inputModule3:
+  class: File
+  path: python/haemorrhagic-bleeding---primary.py
+inputModule4:
+  class: File
+  path: python/bleeding-detachment---primary.py
+inputModule5:
+  class: File
+  path: python/bleeding-cerebellum---primary.py
+inputModule6:
+  class: File
+  path: python/pelvic-bleeding---primary.py
+inputModule7:
+  class: File
+  path: python/bleeding-capsule---primary.py
+inputModule8:
+  class: File
+  path: python/bleeding---primary.py
+inputModule9:
+  class: File
+  path: python/bleeding-delivered---primary.py
+inputModule10:
+  class: File
+  path: python/bleeding-hemisphere---primary.py
+inputModule11:
+  class: File
+  path: python/bleeding-communicating---primary.py
+inputModule12:
+  class: File
+  path: python/bleeding-organ---primary.py
+inputModule13:
+  class: File
+  path: python/bleeding-evacuation---primary.py
+inputModule14:
+  class: File
+  path: python/external-bleeding---primary.py
+inputModule15:
+  class: File
+  path: python/bleeding-tissue---primary.py
+inputModule16:
+  class: File
+  path: python/bleeding-closed---primary.py
+inputModule17:
+  class: File
+  path: python/perineal-bleeding---primary.py
+inputModule18:
+  class: File
+  path: python/bleeding-haematoma---primary.py
+inputModule19:
+  class: File
+  path: python/bleeding-contusion---primary.py
+inputModule20:
+  class: File
+  path: python/subungual-bleeding---primary.py
+inputModule21:
+  class: File
+  path: python/perianal-bleeding---primary.py
+inputModule22:
+  class: File
+  path: python/obstetric-bleeding---primary.py
+inputModule23:
+  class: File
+  path: python/bleeding-vulva---primary.py
+inputModule24:
+  class: File
+  path: python/nontraumatic-bleeding---primary.py
+inputModule25:
+  class: File
+  path: python/intracerebral-bleeding---primary.py
+inputModule26:
+  class: File
+  path: python/extradural-bleeding---primary.py
+inputModule27:
+  class: File
+  path: python/temporal-bleeding---primary.py
+inputModule28:
+  class: File
+  path: python/subdural-bleeding---primary.py
+inputModule29:
+  class: File
+  path: python/bleeding-ligament---primary.py
+inputModule30:
+  class: File
+  path: python/bleeding-injury---primary.py
+inputModule31:
+  class: File
+  path: python/bleeding-postop---primary.py
+inputModule32:
+  class: File
+  path: python/tonsillar-bleeding---primary.py
+inputModule33:
+  class: File
+  path: python/bleed---primary.py
+inputModule34:
+  class: File
+  path: python/adenoid-bleeding---primary.py
+inputModule35:
+  class: File
+  path: python/bleeding-melaena---primary.py
+inputModule36:
+  class: File
+  path: python/bleeding-haematemesis---primary.py
+inputModule37:
+  class: File
+  path: python/bleeding-socket---primary.py
+inputModule38:
+  class: File
+  path: python/output-cases.py
